@@ -8,8 +8,9 @@ android {
     compileSdk 33
 
     buildFeatures{
-        viewBiding true
+        viewBinding true
     }
+
     defaultConfig {
         applicationId "com.example.retrofit_getapi"
         minSdk 21
